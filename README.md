@@ -9,3 +9,4 @@ Repositório criado em 2024-03-01
 ## Planos
 
 - Utilizar framework Hugo
+  - escolher tema
