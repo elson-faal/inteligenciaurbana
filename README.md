@@ -10,6 +10,7 @@ Repositório criado em 2024-03-01
 
 - Utilizar framework Hugo
   - escolher tema
+    - Docsy: https://themes.gohugo.io/themes/docsy/
 
 - Transferir conteúdo Blogger para Markdown
   - testar:
