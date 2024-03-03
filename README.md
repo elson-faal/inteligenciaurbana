@@ -12,5 +12,7 @@ Repositório criado em 2024-03-01
   - escolher tema
 
 - Transferir conteúdo Blogger para Markdown
+  - testar:
+    - blogimport: https://github.com/natefinch/blogimport
 
 - Definir sistema de comentários
