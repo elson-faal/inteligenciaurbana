@@ -10,3 +10,7 @@ Repositório criado em 2024-03-01
 
 - Utilizar framework Hugo
   - escolher tema
+
+- Transferir conteúdo Blogger para Markdown
+
+- Definir sistema de comentários
