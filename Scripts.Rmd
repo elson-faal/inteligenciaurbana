@@ -1,0 +1,9 @@
+---
+title: Scripts R
+---
+
+```{r}
+setwd("C:/Users/efalves/Documents/GitHub/inteligenciaurbana/")
+rmarkdown::render("testes01/Teste.Rmd", output_file = "testes02/Teste.md")
+# ainda não solucionei
+```

@@ -1,0 +1,41 @@
+---
+title: Teste RMarkdown
+output:
+  md_document:
+    variant: commonmark
+    preserve_yaml: true
+  output_file: testes02/Teste.md
+params:
+  nome: Elson
+---
+
+```{r setup, include=FALSE}
+# Não mostrar os code chunks no documento renderizado
+knitr::opts_chunk$set(echo = FALSE, results = 'hide')
+
+# Obter o nome do arquivo atual
+# Nome com o caminho completo
+nome_arq_c <- knitr::current_input()
+# Nome com extensão
+nome_arq_e <- basename(nome_arq_c)
+# Nome sem extensão
+nome_arq <- tools::file_path_sans_ext(nome_arq_e)
+```
+
+# Teste RMarkdown
+
+Testando um code chunk.
+
+```{r}
+var1 <- 2+3
+```
+
+O resultado o code chunk é `r var1`.
+
+Meu nome é `r params$nome`.
+
+O nome deste arquivo é `r nome_arq`. O nome com extensão é `r nome_arq_e` e o caminho completo é `r nome_arq_c`
+
+```{r}
+
+```
