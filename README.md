@@ -10,8 +10,9 @@ Repositório criado em 2024-03-01
 
 - Utilizar framework Hugo
   - escolher tema
-    - Toha: https://themes.gohugo.io/themes/toha/
-    - Docsy: https://themes.gohugo.io/themes/docsy/
+    - multilíngue:
+      - Toha: https://themes.gohugo.io/themes/toha/
+      - Docsy: https://themes.gohugo.io/themes/docsy/
 
 - Transferir conteúdo Blogger para Markdown
   - testar:
