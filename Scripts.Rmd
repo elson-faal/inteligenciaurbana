@@ -2,8 +2,12 @@
 title: Scripts R
 ---
 
+# Scripts R
+
+## Renderizar um arquivo .Rmd em um local para .md em outro local
 ```{r}
-setwd("C:/Users/efalves/Documents/GitHub/inteligenciaurbana/")
-rmarkdown::render("testes01/Teste.Rmd", output_file = "testes02/Teste.md")
-# ainda não solucionei
+doc_origem <- "testes01/Teste.Rmd"
+doc_destino <- "../testes02/Teste.md"
+
+rmarkdown::render(doc_origem, output_file = doc_destino)
 ```

@@ -27,7 +27,7 @@ nome_arq <- tools::file_path_sans_ext(nome_arq_e)
 Testando um code chunk.
 
 ```{r}
-var1 <- 2+3
+var1 <- 2+1
 ```
 
 O resultado o code chunk é `r var1`.
@@ -35,7 +35,3 @@ O resultado o code chunk é `r var1`.
 Meu nome é `r params$nome`.
 
 O nome deste arquivo é `r nome_arq`. O nome com extensão é `r nome_arq_e` e o caminho completo é `r nome_arq_c`
-
-```{r}
-
-```
