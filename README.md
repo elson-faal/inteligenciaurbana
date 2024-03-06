@@ -5,6 +5,10 @@ Novo site Inteligência Urbana
 ## Ações
 
 Repositório criado em 2024-03-01
+Go instalado em 2024-03-06
+Dart sass instalado em 2024-03-06
+Hugo instalado em 2024-03-06
+
 
 ## Planos
 
@@ -13,6 +17,8 @@ Repositório criado em 2024-03-01
     - multilíngue:
       - Toha: https://themes.gohugo.io/themes/toha/
       - Docsy: https://themes.gohugo.io/themes/docsy/
+    - outros:
+      - Blowfish: https://themes.gohugo.io/themes/blowfish/
 
 - Transferir conteúdo Blogger para Markdown
   - testar:
