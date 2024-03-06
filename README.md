@@ -8,6 +8,7 @@ Repositório criado em 2024-03-01
 Go instalado em 2024-03-06
 Dart sass instalado em 2024-03-06
 Hugo instalado em 2024-03-06
+Projeto criado e tema instalado em 2024-03-06
 
 
 ## Planos
