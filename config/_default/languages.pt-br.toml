@@ -1,16 +1,16 @@
-languageCode = "en"
-languageName = "English"
+languageCode = "pt-br"
+languageName = "Português"
 weight = 1
 title = "Inteligência Urbana"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "PT-BR"
+  isoCode = "pt-br"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "2 de janeiro de 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  # description = "Neste espaço em construção oferecemos serviços e compartilhamos conteúdo, dados e informações sobre cidades, urbanismo, arquitetura, planejamento e mercado imobiliário"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 # [author]
