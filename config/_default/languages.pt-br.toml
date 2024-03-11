@@ -10,7 +10,7 @@ title = "Inteligência Urbana"
   dateFormat = "2 de janeiro de 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "Neste espaço em construção oferecemos serviços e compartilhamos conteúdo, dados e informações sobre cidades, urbanismo, arquitetura, planejamento e mercado imobiliário"
+  description = "Neste espaço em construção oferecemos serviços e compartilhamos conteúdo, dados e informações sobre cidades, urbanismo, arquitetura, planejamento e mercado imobiliário"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 # [author]
