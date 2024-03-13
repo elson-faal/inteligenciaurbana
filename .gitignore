@@ -1,7 +1,7 @@
 #others
 
-node_modules
-.hugo_build.lock
+#node_modules
+#.hugo_build.lock
 
 # OS generated files
 
@@ -13,7 +13,7 @@ node_modules
 
 # Hugo
 
-public/
+# public/
 
 # Testes
 
