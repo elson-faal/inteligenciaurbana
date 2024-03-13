@@ -1,20 +1,43 @@
-#others
+# Diretório de publicação do Hugo
+public/
 
-#node_modules
-#.hugo_build.lock
+# Diretórios de dependências
+node_modules/
 
-# OS generated files
+# Arquivos de cache do Hugo
+resources/_gen/
+hugo_stats.json
 
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
+# Arquivo de trava do Hugo
+.hugo_build.lock
 
-# Hugo
+# Arquivos e diretórios comuns a serem ignorados
+*.log
+*.tmp
+*.bak
+*~
 
-# public/
+# Arquivos de sistema do Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Arquivos de configuração do editor/IDE que são específicos para o usuário
+/.vscode/
+/.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos e diretórios de saída de build
+/dist/
+/build/
+/obj/
+
+# Arquivos e diretórios temporários criados, por exemplo, pelo Windows Installer
+/_UpgradeReport_Files/
+/Backup*/
+/UpgradeLog*.XML
+/UpgradeLog*.htm
 
 # Testes
-
 z_testes02/
